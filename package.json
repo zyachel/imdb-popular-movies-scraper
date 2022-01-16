@@ -10,7 +10,7 @@
     "scraping",
     "movies"
   ],
-  "author": "",
+  "author": "zyachel",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "axios": "^0.24.0",
