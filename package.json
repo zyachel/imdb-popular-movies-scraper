@@ -1,0 +1,20 @@
+{
+  "name": "imdb-scraper",
+  "version": "1.0.0",
+  "description": "script to scrape data of popular movies across genres from imdb",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node src/scraper.js"
+  },
+  "keywords": [
+    "scraping",
+    "movies"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "sharp": "^0.29.3"
+  }
+}
